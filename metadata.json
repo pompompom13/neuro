@@ -1,0 +1,6 @@
+{
+  "name": "AI Landscape & Radar: Востребованные нейросети по сферам",
+  "description": "Интерактивный атлас и аналитический гид по самым востребованным нейросетям в ключевых индустриях: разработка, маркетинг, дизайн, видео, финансы, медицина, наука и бизнес.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
